@@ -23,8 +23,11 @@ A modern, glowing, dark-themed version of the classic Pong game built with **HTM
 
 neon-pong/
 ├── index.html # Main HTML file
+
 ├── style.css # CSS for dark theme and glow effects
+
 ├── script.js # JavaScript game logic
+
 └── README.md
 
 
