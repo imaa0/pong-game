@@ -1,4 +1,4 @@
-# 🕹️ Neon Pong Game
+# 🕹️Neon Pong Game
 
 A modern, glowing, dark-themed version of the classic Pong game built with **HTML5 Canvas**, **JavaScript**, and **CSS**. Perfect for practicing game loops, collision detection, and responsive UI in pure frontend code.
 
